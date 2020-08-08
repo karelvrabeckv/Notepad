@@ -1,6 +1,5 @@
 # Notepad
 
-Poznámkový blok
 Vytvořte program pro správu poznámek.
 
 Implementujte následující funkcionalitu:
